@@ -5,9 +5,9 @@ published: false
 tags:
   - poem
 cover_image: ../../static/images/uploads/courage-2.png
-description: "> I wrote the poem below on a calm afternoon and happy to share
-  that it wasn't AI generated nor edited. I designed the cover image as well
-  :-). The Lion icon, however, was borrowed from canvas haha!"
+description: "> I wrote this poem on a calm afternoon and happy to let you know
+  that it wasn't AI generated nor edited. AIso, I designed the cover image as
+  well :-). The Lion icon, however, was borrowed from canvas haha!"
 ---
 Each night, I silently pray.
 
