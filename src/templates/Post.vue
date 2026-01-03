@@ -24,8 +24,13 @@
     <div class="post-comments">
       <!-- Add comment widgets here -->
     </div>
+    <SocialShare 
+      :title="$page.post.title"
+      :description="$page.post.description || $page.post.excerpt"
+      :url="postUrl"
+    />
 
-    <Author class="post-author" />
+   <!-- <Author class="post-author" /> -->
   </Layout>
 </template>
 
@@ -33,12 +38,19 @@
 import PostMeta from '~/components/PostMeta'
 import PostTags from '~/components/PostTags'
 import Author from '~/components/Author.vue'
+import SocialShare from '~/components/SocialShare.vue'
 
 export default {
   components: {
     Author,
     PostMeta,
-    PostTags
+    PostTags,
+    SocialShare
+  },
+  computed: {
+    postUrl() {
+      return `https://tejuafonja.com${this.$page.post.path}`
+    }
   },
   metaInfo () {
     return {
@@ -47,11 +59,21 @@ export default {
         {
           name: 'description',
           content: this.$page.post.description
-        }
+        },
+        { property: 'og:title', content: this.$page.post.title },
+        { property: 'og:description', content: this.$page.post.description },
+        { property: 'og:url', content: `https://tejuafonja.com${this.$page.post.path}` },
+        { property: 'og:type', content: 'article' },
+        { property: 'og:image', content: this.$page.post.cover_image || 'https://tejuafonja.com/default-og-image.jpg' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:creator', content: '@tejuafonja' },
+        { name: 'twitter:title', content: this.$page.post.title },
+        { name: 'twitter:description', content: this.$page.post.description },
       ]
     }
-  }
+  },
 }
+
 </script>
 
 <page-query>
