@@ -1,7 +1,7 @@
 ---
 title: Courage
 date: 2026-01-03T03:42:31.273Z
-published: true
+published: false
 tags:
   - poem
 cover_image: ../../static/images/uploads/courage-2.png
