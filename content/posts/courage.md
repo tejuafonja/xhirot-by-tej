@@ -1,6 +1,6 @@
 ---
 title: Courage
-date: 2026-01-03T03:22:57.344Z
+date: 2026-01-03T03:42:31.273Z
 published: true
 tags:
   - poem
