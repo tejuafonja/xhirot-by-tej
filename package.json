@@ -1,10 +1,9 @@
 {
   "name": "netlifycms-gridsome",
-  "engines": { "node": "18.x" },
   "private": true,
-  "overrides": {
-    "sharp": "^0.32.6",
-    "fsevents": "^2.3.2"
+  "engines": {
+    "node": "18.x",
+    "npm": ">=8.3.0"
   },
   "scripts": {
     "build": "gridsome build",
@@ -16,10 +15,15 @@
     "@gridsome/remark-prismjs": "^0.5.0",
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.4",
-    "gridsome": "^0.7.23"
+    "gridsome": "^0.7.23",
+    "sharp": "^0.32.6"
   },
   "devDependencies": {
-    "node-sass": "^5.0.0",
-    "sass-loader": "^10.0.3"
+    "sass": "^1.69.5",
+    "sass-loader": "^10.5.2"
+  },
+  "overrides": {
+    "sharp": "^0.32.6",
+    "fsevents": "^2.3.3"
   }
 }
