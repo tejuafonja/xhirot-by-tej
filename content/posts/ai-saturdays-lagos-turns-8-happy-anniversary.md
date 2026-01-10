@@ -36,7 +36,7 @@ Thank you for growing with us.
 
 Thank you for carrying this knowledge forward–by mentoring others, starting your own AI communities / companies, furthering your education, and applying what you’ve learned to real-world problems.
 
-I hope that someday, many of us will meet again and laugh about those early days: our first class in a small university classroom, Tomiwa Ijaware and Femi Azeez facilitating sessions in different rooms, and all of us just trying to figure things out, together.
+I hope that someday, many of us will meet again and laugh about those early days: our first class in a small classroom at Univelcity, Tomiwa Ijaware and Femi Azeez facilitating sessions in different rooms, and all of us just trying to figure things out, together.
 
 ### Reflections from Femi, Co-founder AI Saturdays Lagos
 
