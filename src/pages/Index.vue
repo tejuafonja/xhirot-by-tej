@@ -49,7 +49,7 @@
         </div>
 
         <div>
-          From 2019 till date, I have been a member, volunteer or organiser at <a href="https://deeplearningindaba.com/" target="_blank" >
+          From 2019 till date, I have been a member, volunteer and organiser at <a href="https://deeplearningindaba.com/" target="_blank" >
           Deep Learninig Indaba</a>, an educational charity
           focused on strengthening African AI where I served as one of the General Chairs for Indaba 2025. 
 
