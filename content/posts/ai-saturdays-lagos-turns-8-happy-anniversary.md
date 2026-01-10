@@ -14,7 +14,7 @@ H﻿appy 8 Years of Democratising AI knowledge in Africa!
 
 Eight years ago–on the 6th of January–Femi and I organised our very first AI Saturdays cohort in Lagos, Nigeria. 
 
-At the time, Lagos was beaming with tech meetups, but none that we were aware of, committed to continuous learning–week after week, over 16 weeks. That’s what we think set us apart - AI wasn't yet a hot topic :D. We had a curriculum. We met every week. We learned together, struggled together (remembered those days of watching 3b1b videos to understanding linear algebra :D?), and grew together.
+At the time, Lagos was beaming with tech meetups, but none that we were aware of, committed to continuous learning–week after week, over 16 weeks. That’s what we think set us apart - AI wasn't yet a hot topic :D. We had a curriculum. We met every week. We learned together, struggled together (remembered those days of watching [3blue1Brown](https://www.3blue1brown.com/) videos to understanding linear algebra :D?), and grew together.
 
 Sixteen weeks was a big commitment, for you and for us, but it was worth it. And honestly, we had so much fun, didn’t we?
 
@@ -22,15 +22,18 @@ I looked forward to every session: being surrounded by like-minded people, learn
 
 It felt like a dream, and in many ways, it still does.
 
-We honestly didn’t know what to expect for the first class. We thought maybe 20 people would show up.\
+We honestly didn’t know what to expect for the first class. We thought maybe 20 people would show up.
+
 Over 60 of you did. Peculiar wrote a very nice post about our first meeting [here](https://medium.com/fbdevclagos/ai-saturdays-a16-lagos-c97ffa1bc9a5) and you can find short posts about cohort 1 organised on my [Medium page](https://medium.com/ai-saturdays/the-journey-so-far-ai-saturdays-lagos-15a143382180) - many written by you!.
 
 What still feels surreal is this: eight years later, many of you are still part of our network–as builders, researchers, mentors, advocates, founders, and community leaders.
 
 So today, this celebration is really about you.
 
-Thank you for learning with us.\
-Thank you for growing with us.\
+Thank you for learning with us.
+
+Thank you for growing with us.
+
 Thank you for carrying this knowledge forward–by mentoring others, starting your own AI communities / companies, furthering your education, and applying what you’ve learned to real-world problems.
 
 I hope that someday, many of us will meet again and laugh about those early days: our first class in a small university classroom, Tomiwa Ijaware and Femi Azeez facilitating sessions in different rooms, and all of us just trying to figure things out, together.
@@ -61,7 +64,8 @@ To democratise artificial intelligence by creating African AI communities that e
 
 Through AI Saturdays learning communities across Africa, that you are championing, we believe we can scale this mission–and build AI solutions that is useful for our community & beyond.
 
-Would you like to help shape this future with us?\
+Would you like to help shape this future with us?
+
 Please [fill out the short form](https://forms.gle/yW6QbxziqDR5MMem6) to let us know if you’re based in Nigeria and/or interested in being part of what comes next.
 
 ### AI Saturdays Lagos Community Growth (2025)
@@ -77,6 +81,8 @@ Here’s a snapshot of our growth in 2025:
 
 This growth is a direct result of your support, liking, sharing, engaging, and inviting others into the community.
 
-Thank you for being part of this journey.\
-Thank you for believing in the vision.\
+Thank you for being part of this journey.
+
+Thank you for believing in the vision.
+
 And thank you for helping us imagine what the next 8 years can look like–together.
