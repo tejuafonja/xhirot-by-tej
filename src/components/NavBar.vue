@@ -4,7 +4,7 @@
 			<g-link to="/">Home</g-link>
 			<a href="https://sautiproject.com/" target="_blank">SautiProject</a>
 			<!--<a href="https://tejuafonja-projects.netlify.app/">Projects</a>-->
-			<a href="https://scholar.google.com/citations?hl=en&user=u6q18aAAAAAJ/" target="_blank">Publications</a>
+			<a href="https://scholar.google.com/citations?hl=en&user=u6q18aAAAAAJ&view_op=list_works" target="_blank">Publications</a>
 			<g-link to="/xhirot">Blog</g-link>
 			<a href="https://github.com/tejuafonja/" target="_blank">GitHub</a>
             
